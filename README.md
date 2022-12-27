@@ -1,4 +1,4 @@
-# big-data-challenge: Amazon product reviews
+# Big Data Challenge: Amazon product reviews
 
 This repository contains two scripts performing the ETL process and uploading DataFrames to an RDS instance.
 
